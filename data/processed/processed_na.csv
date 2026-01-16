@@ -1,0 +1,498 @@
+survey_date,age,gender,region,industry,job_role,work_arrangement,hours_per_week,mental_health_status,burnout_level,work_life_balance_score,physical_health_issues,social_isolation_score,salary_range,mental_nonreported,physical_nonreported
+2025-06-01,64,Male,North America,Technology,Business Analyst,Remote,35,adhd,Medium,3,eye strain; wrist pain,4,$40K-60K,False,False
+2025-06-01,50,Male,North America,Education,Digital Marketing Specialist,Onsite,51,stress disorder,Low,4,back pain; shoulder pain,5,$100K-120K,False,False
+2025-06-01,23,Male,North America,Professional Services,Product Manager,Onsite,63,stress disorder,Medium,3,shoulder pain; neck pain,2,$60K-80K,False,False
+2025-06-01,22,Female,North America,Manufacturing,DevOps Engineer,Hybrid,47,anxiety,High,4,eye strain,1,$60K-80K,False,False
+2025-06-01,39,Male,North America,Manufacturing,Quality Assurance,Onsite,59,anxiety,Low,5,eye strain; neck pain,2,$60K-80K,False,False
+2025-06-01,33,Female,North America,Manufacturing,Project Manager,Onsite,43,not_reported,Medium,2,back pain; neck pain,3,$60K-80K,True,False
+2025-06-01,40,Male,North America,Professional Services,Customer Service Manager,Remote,62,stress disorder,Medium,4,back pain; eye strain,2,$60K-80K,False,False
+2025-06-01,41,Female,North America,Retail,Technical Writer,Hybrid,45,adhd,High,5,eye strain; neck pain,3,$40K-60K,False,False
+2025-06-01,25,Female,North America,Healthcare,Financial Analyst,Onsite,65,burnout,High,3,neck pain,2,$80K-100K,False,False
+2025-06-01,53,Female,North America,Marketing,Data Scientist,Onsite,56,adhd,High,1,shoulder pain; eye strain,2,$80K-100K,False,False
+2025-06-01,48,Female,North America,Professional Services,Research Scientist,Remote,56,ptsd,Low,3,back pain,3,$80K-100K,False,False
+2025-06-01,31,Female,North America,Technology,Data Analyst,Remote,45,adhd,Medium,3,eye strain,2,$80K-100K,False,False
+2025-06-01,27,Female,North America,Professional Services,DevOps Engineer,Onsite,36,stress disorder,Medium,2,back pain; shoulder pain; eye strain,2,$100K-120K,False,False
+2025-06-01,40,Male,North America,Technology,Business Analyst,Remote,50,not_reported,Low,1,back pain; shoulder pain,3,$60K-80K,True,False
+2025-06-01,39,Female,North America,Technology,Customer Service Manager,Hybrid,54,depression,High,2,back pain; eye strain,3,$60K-80K,False,False
+2025-06-01,33,Female,North America,Professional Services,Social Media Manager,Hybrid,48,adhd,High,2,back pain; shoulder pain,2,$80K-100K,False,False
+2025-06-01,44,Female,North America,Healthcare,Executive Assistant,Hybrid,49,anxiety,Medium,3,neck pain; wrist pain,2,$60K-80K,False,False
+2025-06-01,55,Female,North America,Marketing,Technical Writer,Onsite,47,ptsd,Low,4,back pain; shoulder pain; eye strain,2,$80K-100K,False,False
+2025-06-01,65,Male,North America,Healthcare,IT Support,Onsite,45,anxiety,Low,4,not_reported,1,$120K+,False,True
+2025-06-01,43,Female,North America,Finance,Customer Service Manager,Hybrid,40,ptsd,High,3,not_reported,1,$80K-100K,False,True
+2025-06-02,38,Female,North America,Professional Services,Software Engineer,Onsite,43,ptsd,Medium,3,back pain; eye strain,1,$80K-100K,False,False
+2025-06-02,44,Female,North America,Finance,Social Media Manager,Onsite,56,anxiety,Medium,3,not_reported,1,$120K+,False,True
+2025-06-02,58,Male,North America,Manufacturing,Quality Assurance,Hybrid,53,burnout,Medium,3,not_reported,2,$40K-60K,False,True
+2025-06-02,47,Male,North America,Technology,Sales Representative,Remote,55,stress disorder,High,3,back pain; shoulder pain,3,$40K-60K,False,False
+2025-06-02,51,Female,North America,Technology,Business Analyst,Hybrid,51,not_reported,High,3,back pain; eye strain,5,$40K-60K,True,False
+2025-06-02,29,Female,North America,Finance,Sales Representative,Hybrid,46,burnout,Low,5,neck pain,3,$80K-100K,False,False
+2025-06-02,64,Male,North America,Finance,Customer Service Manager,Remote,41,burnout,Low,1,back pain; shoulder pain; eye strain; neck pain,3,$80K-100K,False,False
+2025-06-02,26,Female,North America,Retail,Marketing Specialist,Onsite,45,adhd,Medium,3,shoulder pain; eye strain,3,$60K-80K,False,False
+2025-06-02,23,Male,North America,Technology,Product Manager,Remote,50,anxiety,High,4,back pain; shoulder pain,5,$60K-80K,False,False
+2025-06-02,29,Female,North America,Professional Services,Consultant,Onsite,48,stress disorder,Low,5,neck pain,3,$60K-80K,False,False
+2025-06-02,27,Female,North America,Finance,Data Analyst,Onsite,44,depression,Low,5,shoulder pain,3,$60K-80K,False,False
+2025-06-02,64,Male,North America,Finance,Data Analyst,Onsite,42,anxiety,High,3,not_reported,1,$80K-100K,False,True
+2025-06-02,47,Male,North America,Professional Services,Social Media Manager,Remote,51,ptsd,Medium,5,neck pain; wrist pain,1,$40K-60K,False,False
+2025-06-02,62,Male,North America,Professional Services,Product Manager,Onsite,37,stress disorder,Low,3,not_reported,1,$100K-120K,False,True
+2025-06-02,30,Male,North America,Professional Services,Executive Assistant,Remote,58,depression,High,3,shoulder pain,4,$80K-100K,False,False
+2025-06-02,37,Female,North America,Education,Technical Writer,Onsite,58,stress disorder,Medium,3,eye strain,3,$40K-60K,False,False
+2025-06-02,32,Male,North America,Marketing,UX Designer,Onsite,39,adhd,Low,5,shoulder pain,5,$60K-80K,False,False
+2025-06-02,43,Male,North America,Manufacturing,Social Media Manager,Onsite,56,not_reported,Low,3,back pain; eye strain,2,$60K-80K,True,False
+2025-06-02,42,Male,North America,Finance,Technical Writer,Onsite,55,stress disorder,Low,1,back pain,5,$60K-80K,False,False
+2025-06-02,37,Female,North America,Finance,Product Manager,Onsite,60,depression,Medium,3,back pain,3,$80K-100K,False,False
+2025-06-03,61,Male,North America,Professional Services,Operations Manager,Onsite,50,not_reported,Low,3,back pain; shoulder pain; eye strain,5,$40K-60K,True,False
+2025-06-03,36,Male,North America,Education,Research Scientist,Onsite,64,burnout,Medium,3,shoulder pain,3,$80K-100K,False,False
+2025-06-03,44,Female,North America,Professional Services,Research Scientist,Remote,56,ptsd,High,4,back pain,3,$80K-100K,False,False
+2025-06-03,63,Male,North America,Education,Digital Marketing Specialist,Onsite,54,burnout,High,2,back pain; shoulder pain; neck pain; wrist pain,1,$60K-80K,False,False
+2025-06-03,61,Female,North America,Education,Financial Analyst,Onsite,49,burnout,Low,2,shoulder pain; eye strain,2,$100K-120K,False,False
+2025-06-03,39,Female,North America,Professional Services,Technical Writer,Hybrid,65,not_reported,Medium,3,back pain; shoulder pain; eye strain,3,$80K-100K,True,False
+2025-06-03,64,Male,North America,Manufacturing,Data Analyst,Hybrid,56,depression,High,2,shoulder pain; eye strain,1,$80K-100K,False,False
+2025-06-03,46,Female,North America,Finance,Technical Writer,Onsite,50,not_reported,High,3,shoulder pain; eye strain,2,$40K-60K,True,False
+2025-06-03,34,Female,North America,Finance,Data Scientist,Onsite,36,ptsd,High,3,back pain; shoulder pain; eye strain; neck pain,4,$100K-120K,False,False
+2025-06-03,39,Female,North America,Marketing,Research Scientist,Onsite,45,depression,Medium,3,back pain; shoulder pain,3,$60K-80K,False,False
+2025-06-03,59,Female,North America,Professional Services,Executive Assistant,Hybrid,58,stress disorder,Low,5,eye strain; wrist pain,3,$80K-100K,False,False
+2025-06-03,47,Male,North America,Technology,HR Manager,Remote,37,adhd,Medium,1,wrist pain,5,$60K-80K,False,False
+2025-06-03,39,Male,North America,Manufacturing,Account Manager,Hybrid,42,ptsd,High,3,shoulder pain; neck pain,1,$60K-80K,False,False
+2025-06-03,63,Female,North America,Customer Service,UX Designer,Onsite,40,not_reported,Medium,5,eye strain,1,$80K-100K,True,False
+2025-06-03,28,Male,North America,Professional Services,Consultant,Onsite,58,depression,Low,4,back pain; shoulder pain,2,$100K-120K,False,False
+2025-06-03,62,Male,North America,Healthcare,Product Manager,Onsite,55,depression,Medium,1,back pain; shoulder pain,3,$100K-120K,False,False
+2025-06-03,42,Non-binary,North America,Healthcare,DevOps Engineer,Onsite,44,stress disorder,Medium,3,back pain; shoulder pain; eye strain,3,$60K-80K,False,False
+2025-06-03,22,Male,North America,Manufacturing,IT Support,Hybrid,41,stress disorder,Medium,1,shoulder pain,3,$60K-80K,False,False
+2025-06-03,60,Female,North America,Healthcare,Operations Manager,Onsite,42,adhd,High,1,back pain; shoulder pain; eye strain,2,$80K-100K,False,False
+2025-06-03,49,Male,North America,Finance,Data Scientist,Hybrid,64,not_reported,Medium,4,back pain; shoulder pain; eye strain,4,$80K-100K,True,False
+2025-06-03,47,Female,North America,Professional Services,Account Manager,Onsite,42,adhd,High,4,back pain; eye strain,4,$80K-100K,False,False
+2025-06-03,64,Female,North America,Technology,Product Manager,Remote,45,burnout,High,2,eye strain,1,$60K-80K,False,False
+2025-06-03,45,Female,North America,Marketing,Technical Writer,Onsite,64,adhd,Medium,4,back pain; wrist pain,1,$40K-60K,False,False
+2025-06-03,58,Female,North America,Manufacturing,Operations Manager,Remote,50,adhd,High,2,eye strain; neck pain,3,$80K-100K,False,False
+2025-06-03,52,Male,North America,Education,Financial Analyst,Onsite,38,not_reported,Medium,4,not_reported,1,$100K-120K,True,True
+2025-06-03,36,Female,North America,Retail,Sales Representative,Onsite,56,burnout,Low,5,not_reported,3,$80K-100K,False,True
+2025-06-04,25,Female,North America,Finance,Social Media Manager,Remote,48,depression,Medium,3,eye strain,5,$100K-120K,False,False
+2025-06-04,22,Female,North America,Education,Content Writer,Onsite,40,anxiety,Medium,3,back pain; eye strain,2,$80K-100K,False,False
+2025-06-04,57,Male,North America,Education,Digital Marketing Specialist,Hybrid,58,not_reported,Medium,2,neck pain,3,$100K-120K,True,False
+2025-06-04,26,Female,North America,Manufacturing,Business Analyst,Hybrid,64,not_reported,High,4,back pain; shoulder pain; eye strain; neck pain,3,$40K-60K,True,False
+2025-06-04,50,Female,North America,Manufacturing,Executive Assistant,Onsite,64,not_reported,Medium,3,back pain; neck pain,3,$80K-100K,True,False
+2025-06-04,45,Male,North America,Retail,DevOps Engineer,Remote,35,depression,High,2,not_reported,2,$60K-80K,False,True
+2025-06-04,43,Female,North America,Education,Technical Writer,Onsite,51,burnout,Medium,5,shoulder pain; eye strain,1,$80K-100K,False,False
+2025-06-04,56,Female,North America,Professional Services,Project Manager,Onsite,39,not_reported,Medium,1,eye strain,3,$80K-100K,True,False
+2025-06-04,35,Female,North America,Professional Services,Technical Writer,Onsite,57,burnout,Medium,2,eye strain; neck pain,1,$40K-60K,False,False
+2025-06-04,33,Female,North America,Professional Services,Data Analyst,Hybrid,59,adhd,Medium,3,shoulder pain,2,$40K-60K,False,False
+2025-06-04,65,Female,North America,Manufacturing,Financial Analyst,Hybrid,51,not_reported,Low,3,shoulder pain; eye strain,5,$60K-80K,True,False
+2025-06-04,54,Female,North America,Manufacturing,Digital Marketing Specialist,Hybrid,63,stress disorder,Medium,2,shoulder pain; eye strain,2,$80K-100K,False,False
+2025-06-04,30,Female,North America,Professional Services,Product Manager,Onsite,43,not_reported,Medium,3,shoulder pain; wrist pain,5,$80K-100K,True,False
+2025-06-04,51,Female,North America,Retail,Sales Representative,Onsite,39,depression,Medium,5,neck pain,2,$100K-120K,False,False
+2025-06-04,46,Male,North America,Professional Services,Operations Manager,Hybrid,45,stress disorder,Medium,1,neck pain,3,$60K-80K,False,False
+2025-06-04,33,Prefer not to say,North America,Professional Services,Software Engineer,Remote,46,anxiety,High,1,eye strain; wrist pain,3,$60K-80K,False,False
+2025-06-04,27,Male,North America,Professional Services,Financial Analyst,Hybrid,55,depression,Medium,3,shoulder pain; eye strain,3,$80K-100K,False,False
+2025-06-04,27,Non-binary,North America,Manufacturing,Digital Marketing Specialist,Onsite,63,not_reported,Low,3,not_reported,2,$60K-80K,True,True
+2025-06-04,45,Female,North America,Healthcare,Product Manager,Onsite,39,adhd,Medium,5,back pain; shoulder pain; wrist pain,3,$100K-120K,False,False
+2025-06-04,40,Male,North America,Manufacturing,Project Manager,Remote,48,ptsd,Low,1,back pain; shoulder pain,4,$80K-100K,False,False
+2025-06-04,53,Male,North America,Technology,Quality Assurance,Hybrid,40,not_reported,Medium,4,back pain; shoulder pain; eye strain,2,$80K-100K,True,False
+2025-06-04,38,Female,North America,Education,Research Scientist,Hybrid,42,burnout,Medium,1,shoulder pain; eye strain,4,$60K-80K,False,False
+2025-06-04,52,Female,North America,Marketing,Financial Analyst,Onsite,35,not_reported,Low,4,back pain; shoulder pain; neck pain,1,$60K-80K,True,False
+2025-06-04,31,Female,North America,Technology,Technical Writer,Onsite,45,not_reported,High,4,back pain; eye strain,1,$60K-80K,True,False
+2025-06-04,48,Male,North America,Education,Software Engineer,Hybrid,58,depression,Medium,4,shoulder pain; neck pain,5,$80K-100K,False,False
+2025-06-05,59,Male,North America,Professional Services,Data Analyst,Onsite,60,anxiety,Medium,2,back pain; neck pain,3,$60K-80K,False,False
+2025-06-05,27,Male,North America,Customer Service,Consultant,Onsite,62,burnout,Medium,4,neck pain,3,$40K-60K,False,False
+2025-06-05,48,Male,North America,Technology,Account Manager,Hybrid,42,stress disorder,Low,1,back pain; neck pain,1,$100K-120K,False,False
+2025-06-05,22,Female,North America,Retail,UX Designer,Onsite,60,anxiety,Medium,3,shoulder pain; eye strain; neck pain,3,$40K-60K,False,False
+2025-06-05,25,Male,North America,Professional Services,Financial Analyst,Hybrid,48,not_reported,Medium,1,eye strain; neck pain,3,$60K-80K,True,False
+2025-06-05,54,Female,North America,Manufacturing,DevOps Engineer,Remote,53,not_reported,Medium,3,back pain; shoulder pain,4,$100K-120K,True,False
+2025-06-05,31,Male,North America,Technology,Account Manager,Hybrid,35,ptsd,High,3,shoulder pain; eye strain,2,$60K-80K,False,False
+2025-06-05,28,Male,North America,Marketing,Consultant,Hybrid,50,ptsd,High,1,back pain; eye strain,2,$60K-80K,False,False
+2025-06-05,51,Female,North America,Customer Service,Operations Manager,Remote,47,anxiety,Medium,2,back pain; shoulder pain; eye strain; neck pain,3,$100K-120K,False,False
+2025-06-05,53,Male,North America,Technology,Technical Writer,Remote,43,not_reported,Medium,3,back pain; eye strain; wrist pain,3,$40K-60K,True,False
+2025-06-05,65,Female,North America,Finance,HR Manager,Remote,53,ptsd,High,2,back pain; shoulder pain; neck pain; wrist pain,4,$80K-100K,False,False
+2025-06-05,55,Male,North America,Manufacturing,Data Scientist,Hybrid,39,stress disorder,Medium,4,eye strain; neck pain,1,$80K-100K,False,False
+2025-06-05,56,Female,North America,Customer Service,Data Scientist,Hybrid,47,anxiety,High,2,back pain; shoulder pain; eye strain,4,$60K-80K,False,False
+2025-06-05,34,Male,North America,Manufacturing,Sales Representative,Hybrid,39,not_reported,Medium,4,eye strain,4,$100K-120K,True,False
+2025-06-05,60,Male,North America,Professional Services,Content Writer,Onsite,52,not_reported,Medium,2,shoulder pain,5,$40K-60K,True,False
+2025-06-05,33,Male,North America,Marketing,Account Manager,Onsite,40,not_reported,High,3,shoulder pain,3,$80K-100K,True,False
+2025-06-05,55,Male,North America,Professional Services,Digital Marketing Specialist,Onsite,51,not_reported,Low,1,neck pain; wrist pain,3,$80K-100K,True,False
+2025-06-05,39,Female,North America,Professional Services,Data Analyst,Remote,49,not_reported,High,3,wrist pain,3,$60K-80K,True,False
+2025-06-05,34,Female,North America,Finance,Marketing Specialist,Onsite,40,depression,Medium,5,back pain; eye strain,4,$80K-100K,False,False
+2025-06-05,60,Male,North America,Professional Services,DevOps Engineer,Remote,42,adhd,Medium,3,neck pain,3,$60K-80K,False,False
+2025-06-06,52,Non-binary,North America,Professional Services,Technical Writer,Remote,64,depression,High,2,back pain; eye strain,4,$80K-100K,False,False
+2025-06-06,38,Male,North America,Technology,Data Scientist,Onsite,53,stress disorder,Low,3,eye strain,2,$60K-80K,False,False
+2025-06-06,31,Female,North America,Technology,UX Designer,Hybrid,39,anxiety,Medium,4,not_reported,3,$40K-60K,False,True
+2025-06-06,22,Male,North America,Professional Services,Executive Assistant,Onsite,52,depression,Medium,4,not_reported,2,$60K-80K,False,True
+2025-06-06,52,Female,North America,Professional Services,Technical Writer,Onsite,47,not_reported,Low,3,shoulder pain,3,$60K-80K,True,False
+2025-06-06,65,Female,North America,Manufacturing,Customer Service Manager,Remote,49,adhd,Medium,3,back pain; eye strain,4,$60K-80K,False,False
+2025-06-06,36,Non-binary,North America,Professional Services,Executive Assistant,Hybrid,48,not_reported,Medium,3,back pain; eye strain,1,$80K-100K,True,False
+2025-06-06,42,Female,North America,Professional Services,Account Manager,Remote,44,ptsd,Medium,3,not_reported,3,$40K-60K,False,True
+2025-06-06,35,Female,North America,Marketing,Business Analyst,Onsite,37,anxiety,High,1,shoulder pain; eye strain,5,$80K-100K,False,False
+2025-06-06,42,Female,North America,Customer Service,Quality Assurance,Onsite,47,depression,Medium,2,back pain; eye strain,5,$80K-100K,False,False
+2025-06-06,28,Female,North America,Customer Service,Account Manager,Hybrid,62,burnout,High,3,back pain; shoulder pain; neck pain,3,$40K-60K,False,False
+2025-06-06,45,Female,North America,Technology,Digital Marketing Specialist,Onsite,65,not_reported,Low,3,shoulder pain; eye strain,2,$80K-100K,True,False
+2025-06-06,27,Female,North America,Customer Service,Digital Marketing Specialist,Hybrid,43,not_reported,High,1,back pain; eye strain,2,$80K-100K,True,False
+2025-06-06,58,Female,North America,Retail,Software Engineer,Onsite,50,depression,High,2,back pain,3,$120K+,False,False
+2025-06-06,38,Male,North America,Professional Services,Marketing Specialist,Hybrid,49,not_reported,Medium,3,not_reported,3,$100K-120K,True,True
+2025-06-06,48,Male,North America,Marketing,Executive Assistant,Onsite,61,burnout,Medium,5,shoulder pain; neck pain,3,$80K-100K,False,False
+2025-06-06,65,Male,North America,Professional Services,Operations Manager,Onsite,39,depression,High,3,back pain; shoulder pain; eye strain,2,$60K-80K,False,False
+2025-06-06,36,Female,North America,Technology,Digital Marketing Specialist,Hybrid,38,not_reported,Medium,2,not_reported,2,$40K-60K,True,True
+2025-06-07,54,Male,North America,Retail,Technical Writer,Remote,41,burnout,Medium,2,back pain; neck pain,3,$60K-80K,False,False
+2025-06-07,32,Female,North America,Manufacturing,Software Engineer,Hybrid,52,ptsd,Medium,4,back pain; eye strain; neck pain,3,$80K-100K,False,False
+2025-06-07,43,Female,North America,Finance,Business Analyst,Onsite,53,ptsd,Medium,5,back pain; shoulder pain,2,$80K-100K,False,False
+2025-06-07,46,Female,North America,Retail,Operations Manager,Onsite,52,stress disorder,Medium,2,shoulder pain; eye strain,1,$100K-120K,False,False
+2025-06-07,23,Female,North America,Education,Operations Manager,Onsite,35,depression,Medium,3,shoulder pain; eye strain; wrist pain,2,$60K-80K,False,False
+2025-06-07,61,Female,North America,Technology,Customer Service Manager,Hybrid,47,adhd,Medium,3,shoulder pain; eye strain,3,$60K-80K,False,False
+2025-06-07,46,Female,North America,Manufacturing,Content Writer,Hybrid,35,adhd,Low,5,shoulder pain; wrist pain,3,$60K-80K,False,False
+2025-06-07,33,Male,North America,Manufacturing,Business Analyst,Onsite,53,depression,Low,2,back pain; shoulder pain; neck pain,2,$80K-100K,False,False
+2025-06-07,54,Female,North America,Professional Services,Research Scientist,Onsite,59,not_reported,High,5,not_reported,3,$40K-60K,True,True
+2025-06-07,25,Male,North America,Professional Services,HR Manager,Onsite,62,depression,Medium,3,back pain; eye strain,2,$80K-100K,False,False
+2025-06-07,23,Male,North America,Technology,Product Manager,Hybrid,46,not_reported,Medium,5,back pain; eye strain; neck pain,2,$60K-80K,True,False
+2025-06-07,48,Female,North America,Professional Services,Financial Analyst,Remote,55,not_reported,High,5,shoulder pain; eye strain; wrist pain,3,$60K-80K,True,False
+2025-06-07,45,Female,North America,Professional Services,Technical Writer,Onsite,43,not_reported,Medium,4,back pain; neck pain,3,$60K-80K,True,False
+2025-06-07,57,Female,North America,Education,Software Engineer,Hybrid,44,anxiety,Low,3,back pain; shoulder pain; eye strain,3,$80K-100K,False,False
+2025-06-07,27,Male,North America,Healthcare,Software Engineer,Hybrid,56,depression,High,1,neck pain,4,$80K-100K,False,False
+2025-06-07,24,Male,North America,Manufacturing,Software Engineer,Onsite,47,not_reported,Medium,4,back pain; shoulder pain,2,$100K-120K,True,False
+2025-06-07,31,Male,North America,Finance,IT Support,Onsite,63,depression,Medium,1,shoulder pain; eye strain,3,$80K-100K,False,False
+2025-06-07,51,Male,North America,Professional Services,Data Analyst,Hybrid,45,anxiety,High,4,back pain; shoulder pain; eye strain,4,$80K-100K,False,False
+2025-06-07,25,Female,North America,Professional Services,Data Scientist,Hybrid,43,stress disorder,Medium,4,back pain; neck pain,2,$80K-100K,False,False
+2025-06-07,57,Male,North America,Finance,Research Scientist,Onsite,52,not_reported,Low,3,not_reported,3,$60K-80K,True,True
+2025-06-07,31,Male,North America,Marketing,Project Manager,Remote,57,ptsd,High,2,back pain; eye strain,4,$80K-100K,False,False
+2025-06-07,25,Male,North America,Healthcare,IT Support,Onsite,51,stress disorder,High,3,back pain,2,$60K-80K,False,False
+2025-06-08,23,Female,North America,Healthcare,Content Writer,Hybrid,49,ptsd,High,1,back pain,2,$80K-100K,False,False
+2025-06-08,42,Female,North America,Professional Services,Software Engineer,Onsite,35,depression,Low,3,back pain; shoulder pain,1,$60K-80K,False,False
+2025-06-08,61,Male,North America,Healthcare,Operations Manager,Onsite,64,not_reported,Low,2,shoulder pain; eye strain,2,$60K-80K,True,False
+2025-06-08,25,Male,North America,Healthcare,Business Analyst,Hybrid,47,depression,Medium,4,back pain; eye strain; neck pain,3,$100K-120K,False,False
+2025-06-08,29,Female,North America,Technology,Executive Assistant,Hybrid,45,anxiety,High,4,back pain; eye strain,1,$100K-120K,False,False
+2025-06-08,30,Male,North America,Technology,Customer Service Manager,Remote,45,not_reported,Medium,5,shoulder pain; eye strain; neck pain,3,$80K-100K,True,False
+2025-06-08,48,Female,North America,Customer Service,Content Writer,Onsite,56,ptsd,Medium,1,shoulder pain,1,$60K-80K,False,False
+2025-06-08,53,Female,North America,Healthcare,Project Manager,Onsite,40,stress disorder,Medium,4,back pain; shoulder pain; eye strain,4,$60K-80K,False,False
+2025-06-08,56,Female,North America,Manufacturing,Data Analyst,Hybrid,36,not_reported,Medium,3,wrist pain,3,$40K-60K,True,False
+2025-06-08,47,Male,North America,Technology,DevOps Engineer,Remote,55,ptsd,High,1,shoulder pain; neck pain,1,$40K-60K,False,False
+2025-06-08,38,Female,North America,Healthcare,Marketing Specialist,Remote,64,anxiety,High,3,not_reported,3,$60K-80K,False,True
+2025-06-08,36,Male,North America,Professional Services,Research Scientist,Onsite,65,not_reported,Low,1,back pain; shoulder pain; neck pain,2,$100K-120K,True,False
+2025-06-08,52,Female,North America,Professional Services,DevOps Engineer,Onsite,53,stress disorder,Medium,3,back pain,3,$80K-100K,False,False
+2025-06-08,23,Male,North America,Technology,Digital Marketing Specialist,Hybrid,63,adhd,High,5,eye strain,3,$40K-60K,False,False
+2025-06-08,43,Female,North America,Retail,UX Designer,Onsite,45,adhd,Low,5,back pain; neck pain,1,$40K-60K,False,False
+2025-06-08,31,Prefer not to say,North America,Retail,Account Manager,Remote,39,burnout,High,5,eye strain; neck pain,2,$120K+,False,False
+2025-06-08,35,Female,North America,Technology,Marketing Specialist,Onsite,43,adhd,High,3,back pain; shoulder pain; neck pain; wrist pain,3,$40K-60K,False,False
+2025-06-08,34,Male,North America,Education,IT Support,Onsite,50,stress disorder,Medium,5,shoulder pain; neck pain,2,$120K+,False,False
+2025-06-08,57,Female,North America,Manufacturing,Marketing Specialist,Onsite,45,not_reported,Low,2,back pain; shoulder pain; wrist pain,2,$80K-100K,True,False
+2025-06-08,28,Female,North America,Finance,Customer Service Manager,Onsite,48,adhd,Low,1,shoulder pain,2,$60K-80K,False,False
+2025-06-08,47,Male,North America,Manufacturing,Social Media Manager,Remote,42,adhd,Low,4,back pain; eye strain,3,$60K-80K,False,False
+2025-06-08,52,Female,North America,Finance,Executive Assistant,Hybrid,51,ptsd,High,1,not_reported,3,$120K+,False,True
+2025-06-09,42,Male,North America,Retail,HR Manager,Hybrid,40,not_reported,Medium,1,back pain; shoulder pain,1,$100K-120K,True,False
+2025-06-09,49,Female,North America,Manufacturing,UX Designer,Hybrid,53,depression,Low,2,back pain; eye strain; wrist pain,2,$60K-80K,False,False
+2025-06-09,26,Female,North America,Professional Services,IT Support,Hybrid,40,anxiety,Low,3,shoulder pain,5,$80K-100K,False,False
+2025-06-09,64,Female,North America,Healthcare,Executive Assistant,Remote,54,stress disorder,Medium,1,back pain; eye strain,5,$60K-80K,False,False
+2025-06-09,40,Female,North America,Professional Services,HR Manager,Onsite,36,anxiety,Low,4,shoulder pain,1,$80K-100K,False,False
+2025-06-09,31,Female,North America,Finance,Executive Assistant,Onsite,47,not_reported,High,3,shoulder pain; eye strain; neck pain,4,$80K-100K,True,False
+2025-06-09,50,Male,North America,Finance,Data Scientist,Onsite,42,not_reported,Low,3,back pain; shoulder pain,3,$60K-80K,True,False
+2025-06-09,65,Non-binary,North America,Marketing,Account Manager,Onsite,62,depression,Medium,5,back pain; eye strain; neck pain,2,$60K-80K,False,False
+2025-06-09,50,Female,North America,Technology,Data Scientist,Hybrid,59,adhd,Low,3,eye strain,3,$100K-120K,False,False
+2025-06-09,35,Male,North America,Customer Service,Social Media Manager,Onsite,51,burnout,High,1,back pain,2,$40K-60K,False,False
+2025-06-09,64,Female,North America,Finance,Content Writer,Remote,62,not_reported,High,1,not_reported,3,$40K-60K,True,True
+2025-06-09,55,Female,North America,Technology,Digital Marketing Specialist,Remote,59,adhd,Medium,3,back pain; eye strain,2,$60K-80K,False,False
+2025-06-09,60,Male,North America,Marketing,Social Media Manager,Remote,45,not_reported,Medium,3,not_reported,1,$60K-80K,True,True
+2025-06-09,40,Male,North America,Finance,Customer Service Manager,Onsite,44,depression,Medium,2,back pain; eye strain; neck pain; wrist pain,3,$40K-60K,False,False
+2025-06-09,33,Female,North America,Professional Services,HR Manager,Onsite,64,not_reported,High,1,back pain,3,$80K-100K,True,False
+2025-06-09,39,Female,North America,Retail,Consultant,Onsite,55,not_reported,Medium,3,back pain; eye strain,2,$80K-100K,True,False
+2025-06-09,34,Male,North America,Marketing,Software Engineer,Onsite,36,adhd,Low,5,shoulder pain,3,$60K-80K,False,False
+2025-06-09,41,Female,North America,Professional Services,Executive Assistant,Remote,44,not_reported,Low,2,shoulder pain; eye strain,4,$80K-100K,True,False
+2025-06-10,40,Male,North America,Manufacturing,Research Scientist,Onsite,49,depression,Medium,1,not_reported,4,$80K-100K,False,True
+2025-06-10,62,Male,North America,Technology,Operations Manager,Remote,57,burnout,High,3,not_reported,1,$60K-80K,False,True
+2025-06-10,34,Female,North America,Manufacturing,Content Writer,Remote,64,not_reported,Medium,3,shoulder pain; eye strain,4,$80K-100K,True,False
+2025-06-10,26,Female,North America,Customer Service,UX Designer,Remote,52,adhd,High,3,shoulder pain; eye strain; wrist pain,3,$80K-100K,False,False
+2025-06-10,46,Male,North America,Customer Service,UX Designer,Hybrid,52,anxiety,Medium,4,back pain; eye strain; wrist pain,5,$80K-100K,False,False
+2025-06-10,45,Male,North America,Education,Customer Service Manager,Remote,57,stress disorder,Medium,3,back pain; shoulder pain; eye strain,3,$60K-80K,False,False
+2025-06-10,52,Prefer not to say,North America,Retail,Consultant,Onsite,41,adhd,Low,5,wrist pain,2,$60K-80K,False,False
+2025-06-10,60,Male,North America,Customer Service,Marketing Specialist,Onsite,65,depression,Low,3,back pain; shoulder pain; eye strain,3,$100K-120K,False,False
+2025-06-10,60,Male,North America,Technology,IT Support,Hybrid,59,not_reported,High,4,shoulder pain,3,$40K-60K,True,False
+2025-06-10,61,Male,North America,Professional Services,HR Manager,Hybrid,41,not_reported,High,3,back pain; eye strain; neck pain,2,$80K-100K,True,False
+2025-06-10,25,Male,North America,Finance,Marketing Specialist,Onsite,51,not_reported,Low,3,back pain; eye strain,2,$80K-100K,True,False
+2025-06-10,23,Female,North America,Retail,Project Manager,Hybrid,64,burnout,Medium,5,back pain; shoulder pain; eye strain,2,$60K-80K,False,False
+2025-06-10,45,Male,North America,Retail,Sales Representative,Hybrid,57,ptsd,High,3,shoulder pain; eye strain; wrist pain,2,$40K-60K,False,False
+2025-06-10,47,Male,North America,Technology,Quality Assurance,Hybrid,53,not_reported,High,3,shoulder pain; eye strain,3,$40K-60K,True,False
+2025-06-10,60,Female,North America,Retail,Product Manager,Onsite,63,not_reported,Low,3,back pain,4,$60K-80K,True,False
+2025-06-10,26,Female,North America,Professional Services,Account Manager,Onsite,40,ptsd,High,2,back pain; eye strain,1,$60K-80K,False,False
+2025-06-10,28,Female,North America,Healthcare,IT Support,Onsite,59,stress disorder,Low,2,eye strain,3,$60K-80K,False,False
+2025-06-10,28,Male,North America,Technology,HR Manager,Remote,40,anxiety,Low,3,back pain; eye strain,3,$60K-80K,False,False
+2025-06-10,60,Female,North America,Manufacturing,Software Engineer,Remote,57,stress disorder,Medium,2,back pain; shoulder pain; neck pain,5,$120K+,False,False
+2025-06-10,58,Female,North America,Education,Digital Marketing Specialist,Onsite,42,stress disorder,Low,5,shoulder pain; eye strain,3,$100K-120K,False,False
+2025-06-10,22,Male,North America,Education,Research Scientist,Remote,59,not_reported,Medium,4,back pain; shoulder pain; eye strain,4,$80K-100K,True,False
+2025-06-10,31,Female,North America,Healthcare,Product Manager,Remote,46,adhd,High,4,back pain; shoulder pain; wrist pain,5,$100K-120K,False,False
+2025-06-10,38,Male,North America,Professional Services,Business Analyst,Hybrid,51,burnout,High,3,shoulder pain; wrist pain,5,$60K-80K,False,False
+2025-06-11,29,Female,North America,Customer Service,Project Manager,Hybrid,53,depression,Low,2,back pain; shoulder pain; eye strain,3,$40K-60K,False,False
+2025-06-11,22,Female,North America,Manufacturing,Business Analyst,Hybrid,37,anxiety,Low,3,back pain; shoulder pain,3,$40K-60K,False,False
+2025-06-11,37,Female,North America,Manufacturing,Data Scientist,Hybrid,44,burnout,Medium,1,not_reported,2,$120K+,False,True
+2025-06-11,50,Female,North America,Retail,Executive Assistant,Onsite,60,depression,Medium,1,neck pain,3,$80K-100K,False,False
+2025-06-11,47,Male,North America,Professional Services,Social Media Manager,Onsite,49,not_reported,Medium,1,back pain; eye strain,2,$60K-80K,True,False
+2025-06-11,26,Female,North America,Marketing,Research Scientist,Hybrid,40,depression,High,5,back pain; eye strain,2,$80K-100K,False,False
+2025-06-11,47,Female,North America,Manufacturing,Data Analyst,Remote,36,anxiety,High,3,back pain; wrist pain,4,$80K-100K,False,False
+2025-06-11,30,Female,North America,Professional Services,Marketing Specialist,Hybrid,53,not_reported,Medium,1,shoulder pain; neck pain,3,$60K-80K,True,False
+2025-06-11,42,Female,North America,Marketing,Technical Writer,Onsite,61,anxiety,Low,4,back pain; shoulder pain; eye strain,3,$80K-100K,False,False
+2025-06-11,44,Male,North America,Technology,Software Engineer,Remote,37,depression,Low,4,shoulder pain,5,$120K+,False,False
+2025-06-11,52,Male,North America,Technology,Research Scientist,Remote,65,anxiety,High,3,shoulder pain,3,$60K-80K,False,False
+2025-06-11,55,Female,North America,Healthcare,Product Manager,Onsite,60,not_reported,Medium,5,back pain; eye strain,1,$120K+,True,False
+2025-06-11,37,Female,North America,Professional Services,Consultant,Onsite,59,not_reported,Medium,3,back pain; shoulder pain; eye strain,5,$80K-100K,True,False
+2025-06-11,33,Male,North America,Education,IT Support,Hybrid,62,adhd,Medium,1,back pain; shoulder pain; eye strain,5,$80K-100K,False,False
+2025-06-11,23,Male,North America,Healthcare,Project Manager,Onsite,38,ptsd,High,2,back pain; shoulder pain,1,$120K+,False,False
+2025-06-11,58,Prefer not to say,North America,Finance,Content Writer,Onsite,60,ptsd,High,4,back pain; wrist pain,2,$100K-120K,False,False
+2025-06-12,33,Male,North America,Professional Services,Research Scientist,Onsite,50,ptsd,High,3,back pain; neck pain,2,$100K-120K,False,False
+2025-06-12,38,Male,North America,Finance,Executive Assistant,Onsite,51,not_reported,Medium,2,back pain,2,$100K-120K,True,False
+2025-06-12,32,Male,North America,Technology,Research Scientist,Hybrid,56,anxiety,Low,2,back pain; shoulder pain; eye strain; wrist pain,2,$40K-60K,False,False
+2025-06-12,23,Female,North America,Education,Account Manager,Onsite,48,depression,High,1,back pain; shoulder pain,3,$80K-100K,False,False
+2025-06-12,33,Male,North America,Finance,Data Analyst,Onsite,41,stress disorder,Medium,4,shoulder pain; eye strain; neck pain,3,$40K-60K,False,False
+2025-06-12,49,Female,North America,Finance,DevOps Engineer,Onsite,63,depression,Medium,5,back pain; shoulder pain; eye strain,3,$100K-120K,False,False
+2025-06-12,29,Female,North America,Professional Services,HR Manager,Onsite,52,ptsd,Low,4,eye strain,2,$60K-80K,False,False
+2025-06-12,56,Male,North America,Professional Services,UX Designer,Hybrid,56,burnout,Low,5,back pain; neck pain,4,$40K-60K,False,False
+2025-06-12,65,Female,North America,Technology,UX Designer,Onsite,54,depression,Medium,3,back pain; neck pain,1,$80K-100K,False,False
+2025-06-12,26,Male,North America,Retail,Software Engineer,Hybrid,36,not_reported,High,3,back pain,3,$100K-120K,True,False
+2025-06-12,56,Female,North America,Professional Services,Financial Analyst,Onsite,65,burnout,Low,5,eye strain; wrist pain,3,$100K-120K,False,False
+2025-06-12,46,Male,North America,Professional Services,Content Writer,Onsite,44,adhd,Medium,2,eye strain; neck pain,2,$40K-60K,False,False
+2025-06-12,27,Female,North America,Finance,HR Manager,Onsite,47,depression,High,3,back pain; shoulder pain; eye strain,1,$60K-80K,False,False
+2025-06-12,26,Male,North America,Customer Service,Project Manager,Hybrid,57,not_reported,Low,5,eye strain,5,$40K-60K,True,False
+2025-06-12,28,Female,North America,Technology,Technical Writer,Hybrid,62,burnout,Low,2,back pain; neck pain,2,$40K-60K,False,False
+2025-06-12,39,Male,North America,Retail,IT Support,Hybrid,40,not_reported,High,4,back pain; shoulder pain; neck pain,2,$60K-80K,True,False
+2025-06-12,47,Male,North America,Manufacturing,Executive Assistant,Onsite,54,not_reported,Low,5,not_reported,3,$80K-100K,True,True
+2025-06-12,54,Male,North America,Professional Services,DevOps Engineer,Hybrid,57,not_reported,Medium,2,not_reported,2,$100K-120K,True,True
+2025-06-12,60,Female,North America,Finance,Executive Assistant,Onsite,64,ptsd,High,1,shoulder pain,2,$60K-80K,False,False
+2025-06-13,28,Female,North America,Finance,Technical Writer,Onsite,54,ptsd,Medium,2,back pain; neck pain,5,$60K-80K,False,False
+2025-06-13,39,Male,North America,Finance,Customer Service Manager,Remote,60,not_reported,Medium,4,shoulder pain; eye strain,5,$80K-100K,True,False
+2025-06-13,64,Male,North America,Technology,Consultant,Hybrid,57,adhd,Medium,5,shoulder pain,3,$120K+,False,False
+2025-06-13,38,Male,North America,Professional Services,Financial Analyst,Hybrid,58,not_reported,High,3,back pain; shoulder pain; eye strain; neck pain,2,$60K-80K,True,False
+2025-06-13,46,Male,North America,Professional Services,Marketing Specialist,Hybrid,48,not_reported,High,2,shoulder pain; eye strain,2,$100K-120K,True,False
+2025-06-13,34,Male,North America,Customer Service,DevOps Engineer,Onsite,62,ptsd,High,3,back pain; neck pain,2,$100K-120K,False,False
+2025-06-13,31,Female,North America,Education,Customer Service Manager,Onsite,50,depression,Low,4,eye strain; neck pain,2,$60K-80K,False,False
+2025-06-13,30,Female,North America,Professional Services,Product Manager,Onsite,45,not_reported,High,3,shoulder pain; wrist pain,2,$80K-100K,True,False
+2025-06-13,48,Female,North America,Education,Consultant,Hybrid,36,not_reported,Low,4,not_reported,2,$120K+,True,True
+2025-06-13,54,Male,North America,Professional Services,Data Scientist,Hybrid,57,adhd,Medium,1,shoulder pain,3,$100K-120K,False,False
+2025-06-13,30,Male,North America,Technology,Content Writer,Onsite,65,burnout,Low,3,back pain; shoulder pain,1,$60K-80K,False,False
+2025-06-13,36,Male,North America,Technology,Executive Assistant,Hybrid,61,anxiety,High,4,back pain; neck pain; wrist pain,2,$120K+,False,False
+2025-06-13,57,Male,North America,Retail,HR Manager,Onsite,59,depression,Medium,2,back pain,1,$60K-80K,False,False
+2025-06-13,54,Female,North America,Finance,Executive Assistant,Hybrid,37,anxiety,Low,4,eye strain; neck pain,4,$80K-100K,False,False
+2025-06-13,38,Male,North America,Healthcare,HR Manager,Remote,52,not_reported,Medium,3,shoulder pain,4,$40K-60K,True,False
+2025-06-14,58,Male,North America,Healthcare,Sales Representative,Onsite,38,not_reported,Low,3,shoulder pain,1,$40K-60K,True,False
+2025-06-14,35,Male,North America,Customer Service,Content Writer,Hybrid,36,ptsd,Low,3,shoulder pain; eye strain,5,$40K-60K,False,False
+2025-06-14,62,Female,North America,Professional Services,IT Support,Onsite,60,anxiety,Medium,3,shoulder pain; neck pain,2,$40K-60K,False,False
+2025-06-14,22,Male,North America,Retail,Sales Representative,Remote,65,depression,Medium,2,shoulder pain,3,$60K-80K,False,False
+2025-06-14,45,Male,North America,Healthcare,UX Designer,Remote,49,stress disorder,Medium,3,back pain; shoulder pain,4,$60K-80K,False,False
+2025-06-14,23,Male,North America,Technology,Technical Writer,Remote,61,ptsd,Low,2,neck pain,4,$80K-100K,False,False
+2025-06-14,35,Female,North America,Customer Service,Data Scientist,Remote,52,depression,High,4,shoulder pain; wrist pain,4,$100K-120K,False,False
+2025-06-14,62,Male,North America,Professional Services,Sales Representative,Onsite,48,adhd,Medium,2,not_reported,3,$80K-100K,False,True
+2025-06-14,61,Male,North America,Education,IT Support,Hybrid,64,not_reported,Low,5,shoulder pain; eye strain; neck pain,3,$40K-60K,True,False
+2025-06-14,42,Male,North America,Technology,Technical Writer,Remote,49,burnout,High,3,shoulder pain,3,$60K-80K,False,False
+2025-06-14,32,Male,North America,Education,Account Manager,Remote,55,burnout,Medium,1,shoulder pain; neck pain,4,$60K-80K,False,False
+2025-06-14,33,Female,North America,Healthcare,Data Analyst,Onsite,60,stress disorder,High,2,shoulder pain,3,$60K-80K,False,False
+2025-06-14,57,Female,North America,Finance,Operations Manager,Remote,42,not_reported,High,5,back pain,4,$60K-80K,True,False
+2025-06-14,45,Male,North America,Manufacturing,Sales Representative,Onsite,62,stress disorder,Medium,4,back pain; neck pain,3,$80K-100K,False,False
+2025-06-14,59,Female,North America,Education,Data Analyst,Onsite,60,not_reported,High,4,back pain; eye strain,3,$60K-80K,True,False
+2025-06-14,57,Female,North America,Professional Services,DevOps Engineer,Onsite,47,not_reported,Medium,1,shoulder pain; eye strain; neck pain,1,$100K-120K,True,False
+2025-06-14,63,Female,North America,Technology,Research Scientist,Hybrid,50,burnout,Medium,4,back pain; shoulder pain; eye strain,2,$60K-80K,False,False
+2025-06-14,53,Female,North America,Healthcare,Executive Assistant,Onsite,61,stress disorder,High,4,back pain; eye strain,1,$80K-100K,False,False
+2025-06-14,35,Male,North America,Manufacturing,Consultant,Hybrid,50,burnout,Medium,5,not_reported,4,$80K-100K,False,True
+2025-06-14,42,Female,North America,Marketing,Social Media Manager,Hybrid,37,not_reported,Medium,2,eye strain; wrist pain,4,$100K-120K,True,False
+2025-06-14,35,Male,North America,Technology,Business Analyst,Remote,50,not_reported,High,1,shoulder pain; eye strain; wrist pain,4,$40K-60K,True,False
+2025-06-14,37,Non-binary,North America,Manufacturing,Social Media Manager,Hybrid,36,depression,Medium,2,shoulder pain; eye strain; neck pain,2,$40K-60K,False,False
+2025-06-14,59,Female,North America,Technology,Product Manager,Hybrid,56,adhd,Medium,1,back pain; shoulder pain; eye strain,4,$60K-80K,False,False
+2025-06-15,43,Male,North America,Manufacturing,Product Manager,Onsite,37,burnout,High,1,back pain; shoulder pain; neck pain,2,$80K-100K,False,False
+2025-06-15,47,Female,North America,Healthcare,DevOps Engineer,Onsite,36,adhd,Low,3,shoulder pain; wrist pain,2,$60K-80K,False,False
+2025-06-15,57,Male,North America,Finance,DevOps Engineer,Hybrid,59,not_reported,Medium,3,back pain; shoulder pain,3,$60K-80K,True,False
+2025-06-15,52,Male,North America,Finance,Business Analyst,Hybrid,63,ptsd,Medium,5,back pain; shoulder pain; eye strain; neck pain,3,$120K+,False,False
+2025-06-15,40,Male,North America,Education,Digital Marketing Specialist,Remote,52,anxiety,Low,3,back pain; shoulder pain; eye strain; neck pain,3,$80K-100K,False,False
+2025-06-15,49,Female,North America,Professional Services,IT Support,Remote,49,anxiety,Low,1,neck pain,3,$80K-100K,False,False
+2025-06-15,50,Female,North America,Finance,Executive Assistant,Onsite,44,stress disorder,Low,2,eye strain,3,$40K-60K,False,False
+2025-06-15,65,Male,North America,Manufacturing,Social Media Manager,Onsite,52,not_reported,High,3,not_reported,1,$40K-60K,True,True
+2025-06-15,56,Male,North America,Professional Services,Quality Assurance,Onsite,55,ptsd,Low,1,eye strain,2,$40K-60K,False,False
+2025-06-15,46,Male,North America,Professional Services,DevOps Engineer,Onsite,38,not_reported,Low,3,back pain,1,$100K-120K,True,False
+2025-06-15,52,Female,North America,Education,Operations Manager,Onsite,42,depression,Low,3,shoulder pain; eye strain,3,$40K-60K,False,False
+2025-06-15,59,Female,North America,Technology,Marketing Specialist,Hybrid,50,stress disorder,Low,3,back pain; shoulder pain; eye strain,1,$60K-80K,False,False
+2025-06-15,47,Male,North America,Technology,Sales Representative,Onsite,40,not_reported,High,2,back pain; eye strain,3,$40K-60K,True,False
+2025-06-15,35,Male,North America,Professional Services,Social Media Manager,Hybrid,63,anxiety,Medium,5,shoulder pain; eye strain; neck pain,2,$120K+,False,False
+2025-06-16,22,Female,North America,Technology,Quality Assurance,Remote,55,anxiety,High,5,back pain; shoulder pain; eye strain; neck pain,5,$80K-100K,False,False
+2025-06-16,41,Female,North America,Professional Services,Product Manager,Hybrid,49,not_reported,High,4,back pain; wrist pain,4,$80K-100K,True,False
+2025-06-16,61,Male,North America,Professional Services,DevOps Engineer,Onsite,44,stress disorder,High,3,back pain,2,$100K-120K,False,False
+2025-06-16,36,Male,North America,Healthcare,Digital Marketing Specialist,Onsite,49,depression,Medium,1,shoulder pain,1,$60K-80K,False,False
+2025-06-16,61,Male,North America,Professional Services,Consultant,Onsite,40,burnout,Low,3,shoulder pain; eye strain,4,$40K-60K,False,False
+2025-06-16,30,Female,North America,Finance,DevOps Engineer,Onsite,54,anxiety,Medium,3,back pain,2,$100K-120K,False,False
+2025-06-16,55,Male,North America,Manufacturing,Project Manager,Remote,40,ptsd,Medium,2,back pain; eye strain; neck pain,1,$60K-80K,False,False
+2025-06-16,58,Male,North America,Finance,Customer Service Manager,Hybrid,63,depression,Medium,4,eye strain,1,$80K-100K,False,False
+2025-06-16,52,Female,North America,Professional Services,UX Designer,Onsite,39,stress disorder,Medium,3,back pain; shoulder pain; eye strain,1,$80K-100K,False,False
+2025-06-16,24,Male,North America,Education,DevOps Engineer,Onsite,61,burnout,Low,3,shoulder pain; neck pain,2,$40K-60K,False,False
+2025-06-16,31,Female,North America,Technology,Product Manager,Hybrid,44,not_reported,High,3,back pain; shoulder pain; eye strain; neck pain,2,$60K-80K,True,False
+2025-06-16,37,Male,North America,Professional Services,Business Analyst,Hybrid,45,not_reported,Medium,5,shoulder pain,4,$80K-100K,True,False
+2025-06-16,47,Male,North America,Manufacturing,Content Writer,Onsite,62,burnout,High,3,back pain; shoulder pain,2,$80K-100K,False,False
+2025-06-16,42,Female,North America,Technology,Research Scientist,Onsite,63,anxiety,High,5,shoulder pain; eye strain,2,$60K-80K,False,False
+2025-06-16,44,Male,North America,Customer Service,Research Scientist,Onsite,54,stress disorder,Medium,4,shoulder pain,3,$80K-100K,False,False
+2025-06-16,24,Female,North America,Manufacturing,Financial Analyst,Onsite,39,burnout,Medium,4,back pain; eye strain; neck pain,2,$80K-100K,False,False
+2025-06-16,65,Male,North America,Manufacturing,Technical Writer,Onsite,39,depression,High,4,eye strain,4,$100K-120K,False,False
+2025-06-16,42,Female,North America,Manufacturing,Data Analyst,Onsite,50,ptsd,Low,5,shoulder pain,1,$60K-80K,False,False
+2025-06-16,38,Male,North America,Marketing,Marketing Specialist,Onsite,37,not_reported,Medium,3,shoulder pain; wrist pain,2,$40K-60K,True,False
+2025-06-17,47,Male,North America,Manufacturing,Quality Assurance,Onsite,60,adhd,High,3,eye strain; wrist pain,2,$100K-120K,False,False
+2025-06-17,34,Male,North America,Technology,Customer Service Manager,Onsite,49,adhd,Medium,2,back pain; eye strain; neck pain,1,$60K-80K,False,False
+2025-06-17,44,Female,North America,Marketing,Consultant,Onsite,41,stress disorder,Low,3,shoulder pain; neck pain; wrist pain,1,$80K-100K,False,False
+2025-06-17,36,Female,North America,Finance,IT Support,Onsite,42,depression,Medium,2,back pain; eye strain,4,$80K-100K,False,False
+2025-06-17,27,Male,North America,Education,Project Manager,Onsite,59,depression,Low,4,shoulder pain; eye strain; wrist pain,3,$100K-120K,False,False
+2025-06-17,37,Male,North America,Education,Operations Manager,Onsite,64,not_reported,High,1,back pain; shoulder pain; neck pain,2,$80K-100K,True,False
+2025-06-17,36,Female,North America,Manufacturing,Quality Assurance,Remote,44,not_reported,Medium,1,shoulder pain,3,$40K-60K,True,False
+2025-06-17,65,Male,North America,Marketing,IT Support,Hybrid,48,not_reported,Medium,3,shoulder pain,2,$40K-60K,True,False
+2025-06-17,40,Male,North America,Manufacturing,Data Analyst,Onsite,47,not_reported,Low,2,back pain; shoulder pain; eye strain,1,$60K-80K,True,False
+2025-06-17,60,Male,North America,Education,Customer Service Manager,Hybrid,60,anxiety,Low,1,shoulder pain,3,$60K-80K,False,False
+2025-06-17,39,Non-binary,North America,Professional Services,Quality Assurance,Hybrid,40,not_reported,High,3,shoulder pain,3,$60K-80K,True,False
+2025-06-17,31,Male,North America,Professional Services,HR Manager,Onsite,48,adhd,Medium,3,back pain; eye strain,1,$60K-80K,False,False
+2025-06-17,47,Female,North America,Technology,Software Engineer,Onsite,47,not_reported,High,5,back pain; neck pain,1,$80K-100K,True,False
+2025-06-18,41,Female,North America,Professional Services,IT Support,Onsite,41,ptsd,High,1,shoulder pain; eye strain,3,$60K-80K,False,False
+2025-06-18,53,Female,North America,Technology,Data Scientist,Onsite,55,adhd,Medium,3,shoulder pain; eye strain,2,$80K-100K,False,False
+2025-06-18,48,Female,North America,Healthcare,Technical Writer,Onsite,48,stress disorder,High,4,back pain; shoulder pain; neck pain; wrist pain,2,$60K-80K,False,False
+2025-06-18,62,Male,North America,Technology,Digital Marketing Specialist,Onsite,57,stress disorder,High,2,eye strain,2,$40K-60K,False,False
+2025-06-18,53,Female,North America,Finance,Marketing Specialist,Onsite,63,adhd,High,2,back pain; shoulder pain; wrist pain,5,$120K+,False,False
+2025-06-18,38,Male,North America,Professional Services,Technical Writer,Hybrid,59,ptsd,Low,3,eye strain,4,$60K-80K,False,False
+2025-06-18,62,Female,North America,Retail,Business Analyst,Onsite,38,burnout,Low,2,back pain; shoulder pain,2,$60K-80K,False,False
+2025-06-18,59,Female,North America,Manufacturing,Quality Assurance,Onsite,41,depression,Low,2,back pain; eye strain,1,$60K-80K,False,False
+2025-06-18,52,Male,North America,Retail,Social Media Manager,Onsite,64,burnout,Medium,2,not_reported,4,$120K+,False,True
+2025-06-18,29,Non-binary,North America,Education,Project Manager,Onsite,43,stress disorder,Medium,5,eye strain,3,$60K-80K,False,False
+2025-06-18,24,Male,North America,Healthcare,Product Manager,Onsite,48,ptsd,Medium,3,back pain; shoulder pain,2,$80K-100K,False,False
+2025-06-18,34,Female,North America,Professional Services,Content Writer,Onsite,46,burnout,Medium,5,back pain; shoulder pain; eye strain; neck pain,1,$100K-120K,False,False
+2025-06-18,35,Female,North America,Technology,Operations Manager,Remote,54,not_reported,High,3,eye strain; neck pain,2,$40K-60K,True,False
+2025-06-18,41,Female,North America,Healthcare,Quality Assurance,Onsite,53,adhd,Low,3,eye strain,3,$60K-80K,False,False
+2025-06-18,39,Female,North America,Technology,Product Manager,Hybrid,37,anxiety,High,3,back pain; shoulder pain; eye strain; wrist pain,1,$60K-80K,False,False
+2025-06-18,29,Female,North America,Technology,Data Analyst,Onsite,52,not_reported,Medium,3,back pain; shoulder pain,3,$40K-60K,True,False
+2025-06-18,50,Female,North America,Retail,Software Engineer,Remote,51,depression,Medium,4,not_reported,4,$80K-100K,False,True
+2025-06-19,62,Female,North America,Marketing,Digital Marketing Specialist,Hybrid,64,ptsd,Low,2,not_reported,5,$60K-80K,False,True
+2025-06-19,30,Female,North America,Manufacturing,Project Manager,Remote,48,burnout,Medium,5,back pain; shoulder pain,4,$80K-100K,False,False
+2025-06-19,23,Female,North America,Education,IT Support,Hybrid,51,not_reported,High,3,back pain; shoulder pain; eye strain,2,$80K-100K,True,False
+2025-06-19,56,Female,North America,Marketing,Account Manager,Hybrid,60,adhd,Medium,1,neck pain; wrist pain,4,$80K-100K,False,False
+2025-06-19,64,Female,North America,Professional Services,Consultant,Onsite,64,ptsd,Low,2,shoulder pain; eye strain,4,$80K-100K,False,False
+2025-06-19,36,Female,North America,Technology,IT Support,Remote,36,not_reported,High,3,back pain; eye strain,2,$40K-60K,True,False
+2025-06-19,45,Female,North America,Education,Technical Writer,Onsite,60,not_reported,Low,2,shoulder pain; eye strain; neck pain,4,$80K-100K,True,False
+2025-06-19,44,Female,North America,Customer Service,Financial Analyst,Hybrid,41,depression,Medium,4,shoulder pain; eye strain,2,$80K-100K,False,False
+2025-06-19,29,Female,North America,Professional Services,Marketing Specialist,Onsite,53,not_reported,High,3,eye strain,5,$60K-80K,True,False
+2025-06-19,31,Male,North America,Finance,Data Scientist,Remote,53,not_reported,Medium,3,back pain; shoulder pain; eye strain,4,$80K-100K,True,False
+2025-06-19,44,Female,North America,Healthcare,Operations Manager,Onsite,39,burnout,Medium,2,back pain; shoulder pain,1,$60K-80K,False,False
+2025-06-19,45,Female,North America,Professional Services,Business Analyst,Remote,61,stress disorder,Medium,4,shoulder pain,5,$60K-80K,False,False
+2025-06-19,50,Male,North America,Education,Content Writer,Remote,58,not_reported,Medium,2,shoulder pain; neck pain,5,$100K-120K,True,False
+2025-06-19,65,Female,North America,Professional Services,Marketing Specialist,Hybrid,49,depression,High,2,shoulder pain; eye strain; wrist pain,3,$40K-60K,False,False
+2025-06-19,40,Female,North America,Technology,Business Analyst,Onsite,45,depression,Medium,1,wrist pain,2,$60K-80K,False,False
+2025-06-19,31,Female,North America,Manufacturing,Technical Writer,Onsite,55,burnout,Low,1,shoulder pain; eye strain; neck pain; wrist pain,1,$40K-60K,False,False
+2025-06-19,31,Female,North America,Marketing,Customer Service Manager,Onsite,51,anxiety,Medium,3,back pain; neck pain,2,$60K-80K,False,False
+2025-06-19,59,Male,North America,Manufacturing,Research Scientist,Onsite,35,not_reported,Low,1,not_reported,3,$60K-80K,True,True
+2025-06-19,45,Female,North America,Professional Services,Project Manager,Hybrid,42,stress disorder,High,5,back pain; shoulder pain,5,$100K-120K,False,False
+2025-06-19,63,Female,North America,Technology,Marketing Specialist,Onsite,37,stress disorder,Medium,2,shoulder pain; eye strain,3,$60K-80K,False,False
+2025-06-19,49,Female,North America,Retail,Marketing Specialist,Onsite,60,ptsd,Medium,4,back pain; eye strain,2,$40K-60K,False,False
+2025-06-19,43,Female,North America,Professional Services,Quality Assurance,Onsite,40,burnout,Medium,4,back pain,2,$100K-120K,False,False
+2025-06-19,27,Female,North America,Professional Services,Operations Manager,Onsite,47,depression,High,4,back pain,4,$80K-100K,False,False
+2025-06-20,29,Female,North America,Technology,Financial Analyst,Hybrid,37,stress disorder,Medium,3,shoulder pain,1,$60K-80K,False,False
+2025-06-20,47,Female,North America,Retail,Financial Analyst,Remote,50,anxiety,High,1,shoulder pain; eye strain,3,$80K-100K,False,False
+2025-06-20,30,Female,North America,Marketing,UX Designer,Onsite,57,stress disorder,High,3,eye strain,2,$80K-100K,False,False
+2025-06-20,46,Male,North America,Manufacturing,Project Manager,Onsite,35,not_reported,Medium,3,back pain; eye strain; neck pain,3,$60K-80K,True,False
+2025-06-20,36,Male,North America,Professional Services,Product Manager,Onsite,36,adhd,Medium,3,eye strain; neck pain,2,$60K-80K,False,False
+2025-06-20,53,Male,North America,Healthcare,Research Scientist,Onsite,44,adhd,High,5,eye strain,4,$80K-100K,False,False
+2025-06-20,57,Female,North America,Finance,Content Writer,Remote,39,ptsd,High,2,back pain; shoulder pain; eye strain; neck pain,4,$60K-80K,False,False
+2025-06-20,56,Female,North America,Marketing,Consultant,Onsite,65,stress disorder,Medium,5,back pain; eye strain,3,$100K-120K,False,False
+2025-06-20,50,Female,North America,Customer Service,Business Analyst,Remote,63,adhd,Medium,3,shoulder pain,4,$80K-100K,False,False
+2025-06-20,24,Prefer not to say,North America,Education,IT Support,Remote,37,adhd,Medium,1,back pain; eye strain,4,$40K-60K,False,False
+2025-06-20,48,Male,North America,Manufacturing,Account Manager,Remote,57,ptsd,High,3,back pain; neck pain,5,$40K-60K,False,False
+2025-06-20,34,Male,North America,Professional Services,Business Analyst,Onsite,37,depression,Low,3,back pain; shoulder pain; eye strain; wrist pain,3,$80K-100K,False,False
+2025-06-20,27,Male,North America,Technology,IT Support,Hybrid,49,not_reported,High,1,back pain; shoulder pain; eye strain; wrist pain,3,$60K-80K,True,False
+2025-06-20,59,Male,North America,Healthcare,Customer Service Manager,Onsite,50,adhd,Low,3,eye strain,2,$40K-60K,False,False
+2025-06-20,28,Female,North America,Manufacturing,HR Manager,Hybrid,59,depression,High,1,shoulder pain,2,$80K-100K,False,False
+2025-06-20,64,Female,North America,Professional Services,Data Scientist,Hybrid,45,anxiety,High,3,back pain; eye strain,3,$120K+,False,False
+2025-06-20,43,Male,North America,Professional Services,Data Analyst,Hybrid,53,not_reported,Medium,2,not_reported,3,$80K-100K,True,True
+2025-06-20,60,Female,North America,Marketing,Account Manager,Onsite,36,not_reported,Medium,3,shoulder pain; eye strain; wrist pain,4,$40K-60K,True,False
+2025-06-20,39,Male,North America,Technology,Data Analyst,Remote,39,adhd,High,2,back pain,4,$80K-100K,False,False
+2025-06-20,61,Male,North America,Retail,Product Manager,Remote,35,stress disorder,Low,2,back pain; shoulder pain; eye strain,2,$80K-100K,False,False
+2025-06-20,43,Female,North America,Finance,Data Analyst,Onsite,37,ptsd,Medium,3,back pain,2,$80K-100K,False,False
+2025-06-20,31,Male,North America,Education,Data Analyst,Onsite,39,not_reported,High,3,eye strain,2,$80K-100K,True,False
+2025-06-21,42,Female,North America,Technology,Project Manager,Onsite,65,depression,High,3,shoulder pain; eye strain,5,$60K-80K,False,False
+2025-06-21,62,Non-binary,North America,Customer Service,Customer Service Manager,Onsite,38,burnout,Low,2,back pain; neck pain; wrist pain,3,$60K-80K,False,False
+2025-06-21,50,Male,North America,Technology,Sales Representative,Remote,51,not_reported,Low,5,shoulder pain; eye strain,4,$80K-100K,True,False
+2025-06-21,37,Female,North America,Technology,UX Designer,Onsite,38,not_reported,Low,4,back pain; shoulder pain; eye strain,2,$60K-80K,True,False
+2025-06-21,44,Male,North America,Marketing,Marketing Specialist,Onsite,62,burnout,Medium,3,back pain,2,$60K-80K,False,False
+2025-06-21,30,Male,North America,Finance,IT Support,Hybrid,43,depression,High,2,shoulder pain; eye strain,1,$60K-80K,False,False
+2025-06-21,64,Female,North America,Professional Services,Content Writer,Onsite,64,adhd,High,2,back pain; shoulder pain; eye strain,2,$80K-100K,False,False
+2025-06-21,33,Male,North America,Technology,Marketing Specialist,Hybrid,38,stress disorder,Low,2,back pain,3,$60K-80K,False,False
+2025-06-21,52,Female,North America,Marketing,Consultant,Onsite,46,stress disorder,High,4,back pain; shoulder pain,2,$40K-60K,False,False
+2025-06-21,34,Female,North America,Marketing,HR Manager,Hybrid,39,depression,High,3,back pain; shoulder pain,3,$40K-60K,False,False
+2025-06-21,23,Male,North America,Technology,HR Manager,Hybrid,55,burnout,High,3,back pain; shoulder pain; eye strain,4,$100K-120K,False,False
+2025-06-21,46,Female,North America,Retail,Technical Writer,Remote,55,not_reported,Low,3,wrist pain,4,$60K-80K,True,False
+2025-06-21,56,Female,North America,Professional Services,Content Writer,Hybrid,57,depression,High,2,back pain; shoulder pain; eye strain; neck pain,4,$40K-60K,False,False
+2025-06-21,46,Male,North America,Marketing,Executive Assistant,Onsite,62,adhd,Medium,3,eye strain,1,$60K-80K,False,False
+2025-06-21,42,Male,North America,Manufacturing,Sales Representative,Remote,50,anxiety,High,5,back pain; wrist pain,5,$80K-100K,False,False
+2025-06-21,23,Female,North America,Technology,HR Manager,Onsite,36,not_reported,Medium,5,back pain; shoulder pain; eye strain,4,$60K-80K,True,False
+2025-06-21,47,Female,North America,Customer Service,Data Analyst,Remote,38,stress disorder,Medium,3,back pain; shoulder pain; eye strain; neck pain; wrist pain,4,$60K-80K,False,False
+2025-06-21,36,Male,North America,Retail,Product Manager,Hybrid,37,ptsd,High,4,back pain; shoulder pain,1,$40K-60K,False,False
+2025-06-21,35,Male,North America,Manufacturing,Business Analyst,Remote,42,ptsd,Medium,2,back pain; eye strain; wrist pain,5,$60K-80K,False,False
+2025-06-21,57,Male,North America,Professional Services,Content Writer,Onsite,59,burnout,High,2,back pain; eye strain; wrist pain,1,$40K-60K,False,False
+2025-06-22,59,Female,North America,Marketing,Digital Marketing Specialist,Onsite,55,depression,Medium,3,shoulder pain; neck pain,2,$100K-120K,False,False
+2025-06-22,27,Female,North America,Education,Customer Service Manager,Hybrid,60,adhd,Low,3,shoulder pain,4,$60K-80K,False,False
+2025-06-22,24,Female,North America,Manufacturing,HR Manager,Onsite,55,burnout,High,4,eye strain,1,$100K-120K,False,False
+2025-06-22,65,Female,North America,Education,Social Media Manager,Onsite,55,not_reported,High,3,back pain; eye strain,1,$80K-100K,True,False
+2025-06-22,53,Female,North America,Professional Services,Project Manager,Remote,51,stress disorder,High,5,back pain; neck pain,2,$120K+,False,False
+2025-06-22,51,Female,North America,Retail,Sales Representative,Remote,49,ptsd,Low,4,back pain; shoulder pain; wrist pain,3,$80K-100K,False,False
+2025-06-22,58,Female,North America,Technology,IT Support,Hybrid,50,anxiety,Medium,3,back pain; shoulder pain; eye strain; neck pain,3,$60K-80K,False,False
+2025-06-22,49,Female,North America,Technology,HR Manager,Hybrid,49,anxiety,Low,3,eye strain,2,$80K-100K,False,False
+2025-06-22,63,Male,North America,Technology,Quality Assurance,Hybrid,43,ptsd,High,2,back pain,1,$40K-60K,False,False
+2025-06-22,40,Female,North America,Education,Customer Service Manager,Remote,37,burnout,Medium,2,wrist pain,4,$40K-60K,False,False
+2025-06-22,59,Female,North America,Professional Services,IT Support,Onsite,48,depression,High,4,back pain; shoulder pain; neck pain,2,$60K-80K,False,False
+2025-06-22,48,Non-binary,North America,Technology,Research Scientist,Hybrid,44,stress disorder,Medium,3,back pain,3,$80K-100K,False,False
+2025-06-22,36,Male,North America,Professional Services,Marketing Specialist,Onsite,52,not_reported,Low,3,shoulder pain; eye strain,1,$60K-80K,True,False
+2025-06-22,56,Female,North America,Healthcare,Research Scientist,Onsite,52,anxiety,Low,3,back pain; eye strain; wrist pain,2,$80K-100K,False,False
+2025-06-22,46,Female,North America,Finance,Digital Marketing Specialist,Onsite,54,not_reported,Medium,3,back pain,3,$100K-120K,True,False
+2025-06-22,33,Non-binary,North America,Technology,Data Analyst,Hybrid,53,depression,Medium,1,back pain; eye strain; neck pain,4,$80K-100K,False,False
+2025-06-22,35,Male,North America,Manufacturing,Technical Writer,Onsite,38,depression,High,1,shoulder pain; eye strain; wrist pain,3,$80K-100K,False,False
+2025-06-22,44,Male,North America,Finance,Executive Assistant,Hybrid,53,burnout,High,3,shoulder pain,4,$60K-80K,False,False
+2025-06-23,65,Female,North America,Professional Services,Research Scientist,Onsite,46,burnout,Low,2,eye strain; neck pain; wrist pain,3,$40K-60K,False,False
+2025-06-23,46,Male,North America,Customer Service,HR Manager,Onsite,56,ptsd,High,4,back pain; eye strain,4,$80K-100K,False,False
+2025-06-23,58,Male,North America,Marketing,UX Designer,Onsite,48,not_reported,High,2,eye strain; neck pain,2,$60K-80K,True,False
+2025-06-23,52,Female,North America,Retail,Content Writer,Onsite,46,anxiety,Low,4,shoulder pain; eye strain; neck pain,3,$40K-60K,False,False
+2025-06-23,43,Female,North America,Finance,Sales Representative,Onsite,56,ptsd,High,3,shoulder pain; eye strain,4,$60K-80K,False,False
+2025-06-23,46,Male,North America,Technology,IT Support,Remote,53,burnout,Medium,3,back pain; shoulder pain; eye strain,4,$80K-100K,False,False
+2025-06-23,26,Male,North America,Healthcare,Consultant,Remote,44,anxiety,High,2,back pain,5,$80K-100K,False,False
+2025-06-23,33,Male,North America,Finance,Executive Assistant,Onsite,44,depression,Medium,5,back pain; eye strain; neck pain,1,$100K-120K,False,False
+2025-06-23,54,Male,North America,Technology,Operations Manager,Remote,44,not_reported,Medium,1,eye strain,4,$60K-80K,True,False
+2025-06-23,40,Female,North America,Technology,Consultant,Onsite,35,ptsd,Low,2,shoulder pain; neck pain,3,$40K-60K,False,False
+2025-06-23,57,Male,North America,Technology,Consultant,Hybrid,60,not_reported,Low,4,wrist pain,1,$60K-80K,True,False
+2025-06-23,53,Female,North America,Marketing,Consultant,Hybrid,55,burnout,High,4,back pain; shoulder pain,3,$100K-120K,False,False
+2025-06-23,56,Male,North America,Technology,DevOps Engineer,Hybrid,58,depression,Medium,3,back pain; eye strain,4,$120K+,False,False
+2025-06-23,62,Non-binary,North America,Customer Service,Account Manager,Onsite,62,anxiety,Medium,5,not_reported,2,$40K-60K,False,True
+2025-06-23,61,Male,North America,Marketing,Technical Writer,Onsite,42,ptsd,High,1,eye strain,2,$80K-100K,False,False
+2025-06-23,38,Female,North America,Healthcare,Financial Analyst,Remote,61,not_reported,Low,5,wrist pain,4,$80K-100K,True,False
+2025-06-24,49,Male,North America,Healthcare,Content Writer,Onsite,58,ptsd,Medium,2,back pain; shoulder pain,5,$60K-80K,False,False
+2025-06-24,65,Female,North America,Manufacturing,Data Scientist,Remote,39,ptsd,Medium,3,back pain; neck pain,5,$100K-120K,False,False
+2025-06-24,53,Female,North America,Retail,Customer Service Manager,Onsite,36,anxiety,High,4,not_reported,2,$60K-80K,False,True
+2025-06-24,52,Female,North America,Professional Services,Research Scientist,Onsite,50,stress disorder,High,1,shoulder pain; eye strain; wrist pain,2,$60K-80K,False,False
+2025-06-24,35,Male,North America,Education,Account Manager,Hybrid,49,not_reported,Low,2,back pain; shoulder pain,4,$60K-80K,True,False
+2025-06-24,27,Male,North America,Manufacturing,Social Media Manager,Onsite,38,stress disorder,Medium,1,back pain; eye strain,4,$60K-80K,False,False
+2025-06-24,48,Female,North America,Finance,Business Analyst,Onsite,53,not_reported,High,3,back pain; eye strain; wrist pain,2,$60K-80K,True,False
+2025-06-24,54,Female,North America,Manufacturing,Operations Manager,Remote,41,ptsd,Medium,2,back pain; eye strain,4,$40K-60K,False,False
+2025-06-24,63,Female,North America,Education,IT Support,Onsite,44,burnout,Low,2,back pain; shoulder pain; neck pain,2,$60K-80K,False,False
+2025-06-24,25,Female,North America,Professional Services,Consultant,Onsite,57,depression,Medium,1,shoulder pain,1,$60K-80K,False,False
+2025-06-24,49,Male,North America,Manufacturing,Product Manager,Onsite,50,not_reported,Medium,4,eye strain,3,$100K-120K,True,False
+2025-06-24,62,Female,North America,Retail,HR Manager,Onsite,62,not_reported,Low,3,shoulder pain; eye strain; wrist pain,3,$60K-80K,True,False
+2025-06-24,55,Female,North America,Professional Services,Project Manager,Onsite,36,stress disorder,Medium,4,back pain; eye strain,2,$40K-60K,False,False
+2025-06-24,29,Female,North America,Technology,Research Scientist,Hybrid,43,not_reported,High,3,back pain; eye strain,3,$60K-80K,True,False
+2025-06-25,49,Female,North America,Education,Data Analyst,Hybrid,44,not_reported,Low,1,back pain; shoulder pain; eye strain,1,$60K-80K,True,False
+2025-06-25,62,Female,North America,Professional Services,Consultant,Onsite,42,anxiety,Medium,5,back pain; eye strain,3,$100K-120K,False,False
+2025-06-25,58,Male,North America,Customer Service,Digital Marketing Specialist,Onsite,65,stress disorder,High,5,not_reported,2,$80K-100K,False,True
+2025-06-25,48,Female,North America,Healthcare,Operations Manager,Hybrid,45,depression,Low,4,back pain; shoulder pain,3,$40K-60K,False,False
+2025-06-25,61,Female,North America,Professional Services,Product Manager,Onsite,39,not_reported,High,3,back pain; shoulder pain; eye strain,2,$40K-60K,True,False
+2025-06-25,48,Male,North America,Professional Services,Social Media Manager,Hybrid,51,adhd,Medium,2,back pain; shoulder pain; eye strain,3,$100K-120K,False,False
+2025-06-25,35,Male,North America,Technology,DevOps Engineer,Remote,62,not_reported,Low,2,eye strain,2,$80K-100K,True,False
+2025-06-25,47,Female,North America,Technology,Digital Marketing Specialist,Remote,35,adhd,Low,3,back pain; shoulder pain,4,$40K-60K,False,False
+2025-06-25,60,Female,North America,Professional Services,UX Designer,Onsite,51,ptsd,Low,5,back pain; shoulder pain; wrist pain,5,$80K-100K,False,False
+2025-06-25,49,Female,North America,Education,UX Designer,Hybrid,52,stress disorder,High,4,back pain,1,$60K-80K,False,False
+2025-06-25,47,Male,North America,Marketing,Social Media Manager,Onsite,36,depression,Medium,5,back pain; eye strain; neck pain,2,$40K-60K,False,False
+2025-06-25,28,Female,North America,Finance,Digital Marketing Specialist,Hybrid,38,adhd,Medium,2,shoulder pain; wrist pain,2,$80K-100K,False,False
+2025-06-25,55,Female,North America,Finance,Data Analyst,Remote,60,anxiety,Medium,3,neck pain,3,$80K-100K,False,False
+2025-06-25,48,Male,North America,Healthcare,Digital Marketing Specialist,Onsite,36,adhd,Low,3,shoulder pain,4,$60K-80K,False,False
+2025-06-25,34,Female,North America,Retail,Financial Analyst,Onsite,47,stress disorder,Medium,3,back pain; eye strain,5,$60K-80K,False,False
+2025-06-25,65,Female,North America,Education,HR Manager,Onsite,59,not_reported,Medium,3,back pain,3,$60K-80K,True,False
+2025-06-25,39,Male,North America,Marketing,Product Manager,Onsite,65,ptsd,Medium,2,not_reported,2,$100K-120K,False,True
+2025-06-25,39,Female,North America,Technology,Sales Representative,Hybrid,62,ptsd,Medium,3,neck pain,4,$80K-100K,False,False
+2025-06-26,51,Female,North America,Technology,Software Engineer,Onsite,62,adhd,High,1,back pain; shoulder pain; neck pain,3,$100K-120K,False,False
+2025-06-26,35,Male,North America,Retail,Data Analyst,Onsite,50,burnout,Low,3,eye strain,2,$80K-100K,False,False
+2025-06-26,24,Male,North America,Retail,Product Manager,Onsite,63,depression,Medium,4,shoulder pain; eye strain; neck pain,1,$100K-120K,False,False
+2025-06-26,30,Female,North America,Technology,Executive Assistant,Hybrid,44,ptsd,High,1,back pain; shoulder pain; eye strain; neck pain,3,$40K-60K,False,False
+2025-06-26,65,Male,North America,Technology,Customer Service Manager,Hybrid,55,not_reported,Medium,4,shoulder pain; neck pain,1,$40K-60K,True,False
+2025-06-26,31,Male,North America,Manufacturing,IT Support,Hybrid,40,adhd,High,3,back pain; eye strain,3,$60K-80K,False,False
+2025-06-26,61,Female,North America,Retail,Business Analyst,Remote,62,adhd,Medium,4,back pain; shoulder pain; wrist pain,3,$40K-60K,False,False
+2025-06-26,43,Male,North America,Retail,Consultant,Onsite,39,not_reported,Medium,5,shoulder pain; eye strain,3,$80K-100K,True,False
+2025-06-26,62,Female,North America,Professional Services,Consultant,Onsite,64,burnout,Medium,5,shoulder pain; eye strain; wrist pain,1,$40K-60K,False,False
+2025-06-26,34,Male,North America,Professional Services,Customer Service Manager,Hybrid,37,adhd,Low,3,shoulder pain; eye strain; neck pain,3,$120K+,False,False
+2025-06-26,35,Female,North America,Professional Services,Content Writer,Onsite,38,not_reported,Medium,3,not_reported,1,$60K-80K,True,True
+2025-06-26,41,Female,North America,Technology,Product Manager,Remote,59,stress disorder,High,2,shoulder pain,1,$100K-120K,False,False
+2025-06-26,42,Male,North America,Technology,Account Manager,Onsite,45,adhd,Low,3,not_reported,3,$80K-100K,False,True
+2025-06-26,45,Female,North America,Professional Services,HR Manager,Onsite,59,ptsd,Medium,1,shoulder pain,3,$40K-60K,False,False
+2025-06-26,38,Male,North America,Education,Operations Manager,Onsite,52,depression,Medium,3,shoulder pain; eye strain; neck pain,5,$80K-100K,False,False
+2025-06-26,54,Female,North America,Healthcare,Technical Writer,Onsite,39,burnout,Medium,4,back pain; eye strain,2,$100K-120K,False,False
